@@ -2,7 +2,7 @@
   position: relative;
 }
 header{
-  background: #ccc;
+  background-image:url("http://d.5857.com/hmbb_160729/001.jpg") ;
   padding: 20px;
 }
 confmenu
@@ -200,7 +200,7 @@ height: 70px;
 background-color: white;
 width: 195px;
 }
-body {
-  margin-bottom: 120px;
+body{
+ margin-bottom: 120px;
 }
 
